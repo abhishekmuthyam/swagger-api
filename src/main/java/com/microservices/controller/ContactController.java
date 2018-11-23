@@ -23,7 +23,7 @@ public class ContactController {
 	public List<Contact> fetchContacts(){
 		return Arrays.asList(
 				new Contact(111,"Abhishek","8919109270","abhishekmuthyam@gmail.com"),
-				new Contact(222,"Muthyam", "9849349980","muthyama@hcl.com"),
+				new Contact(222,"Muthyama", "9849349980","muthyama@hcl.com"),
 				new Contact(333,"Chinna", "81919109270","chinna@gmail.com")
 				);
 	}
