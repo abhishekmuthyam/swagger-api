@@ -28,7 +28,7 @@ public class SwaggerConfiguration {
 	 private ApiInfo apiInfo() {
 	        return new ApiInfoBuilder()
 	            .title("Spring Boot Swagger Example API")
-	            .description("Swagger Api Demo Example.<br><br>Below is a list of available REST API calls for Swagger Api Services.")
+	            .description("Swagger Api Demo Example.<br>Below is a list of available REST API calls for Swagger Api Services.")
 	            .contact(new Contact("Abhishek Muthyam","", "abhishekmuthyam@gmail.com"))
 	            .license("")
 	            .licenseUrl("")
